@@ -8,12 +8,7 @@ soy un estudiante de ingenieria de software apasionado por la tecnologia y el ap
 
 ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=patomax31&layout=compact&theme=dark)
 
-### Habilidades Técnicas
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-React-61DAFB?logo=python&logoColor=black)
-![PHP](https://img.shields.io/badge/-Node.js-339933?logo=PHP.js&logoColor=white)
-
-![Actividad GitHub](https://activity-graph.herokuapp.com/graph?username=tunombre&theme=react-dark)
+![Actividad GitHub](https://activity-graph.herokuapp.com/graph?patomax31=tunombre&theme=react-dark)
 
 ## Actualmente
 - 🔭 I’m currently working on a web page with a group team
