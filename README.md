@@ -8,7 +8,7 @@ soy un estudiante de ingenieria de software apasionado por la tecnologia y el ap
 
 ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=patomax31&layout=compact&theme=dark)
 
-![Actividad GitHub](https://activity-graph.herokuapp.com/graph?patomax31=tunombre&theme=react-dark)
+![Actividad GitHub](https://activity-graph.herokuapp.com/graph?username=patomax31&theme=react-dark)
 
 ## Actualmente
 - 🔭 I’m currently working on a web page with a group team
