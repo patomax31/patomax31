@@ -13,4 +13,4 @@ soy un estudiante de ingenieria de software apasionado por la tecnologia y el ap
 ## Actualmente
 - 🔭 I’m currently working on a web page with a group team
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on diferents projects so i can new technologies
+- 👯 I’m looking to collaborate on diferents projects so i can try new technologies
